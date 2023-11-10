@@ -7,6 +7,7 @@ The main aim is to automatically detect cracks in railway track using Ultrasonic
 ![Train Prototype](https://github.com/VishalB-2k3/Railway-Track-Crack-Detection/assets/55921648/8f8ce69e-0722-4564-a88e-74b1d61acd6f)
 
 AUTHOR 🔗
+
 Vishal.B _ https://github.com/VishalB-2k3
 
 G.S.Ruparani - https://github.com/ruparani24
