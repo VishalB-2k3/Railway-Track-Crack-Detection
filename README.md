@@ -8,5 +8,7 @@ The main aim is to automatically detect cracks in railway track using Ultrasonic
 
 AUTHOR 🔗
 Vishal.B _ https://github.com/VishalB-2k3
+
 G.S.Ruparani - https://github.com/ruparani24
+
 Pushkala.S - 
